@@ -1,0 +1,41 @@
+	#p1{
+		font-size: 25px;
+		font-style: Italic;
+	}
+
+	#p2{
+		background-color: #fae5d3;
+		font-size: 15px;
+		text-align: left;
+		color: #212f3c;
+		font-style: italic;
+
+	}
+	#p3{
+		background-color:  #f1948a;
+		text-align: center;
+		color: white;
+		border-spacing: 5px;
+		border-color:  #d35400;
+	}
+	#nuevo{
+		font-family: verdana;
+		text-decoration: underline;
+	}
+	#nuevo2{
+		background-color: #FFF;
+		font-weight: bold;
+	}
+	body{
+		background: rgb(251, 251, 251);
+		background: linear-gradient(90deg, rgba(251, 251, 251, 1.0) 0%, 
+			rgba(172, 241, 255, 1.0) 46%), rgba(81, 226, 255, 1.0) 100%;
+	}
+	font{
+		text-decoration: underline;
+		font-family: arial;
+	}
+	th{
+		background-color: #2bf72d;
+		font-size: 25px;
+	}
